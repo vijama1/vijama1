@@ -3,11 +3,11 @@
 
 I am [Aman](https://vijama1.github.io/), a passionate and creative developer from [India🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp;. 
 
-- 🔭 I’m currently working on a Native App!
+- 🔭 I’m currently working on a gRPC!
 - 🌱 I’m currently learning Quantum Computing
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love astrophysics & reading.
-- 👨🏽‍💻 [CovidViz](https://covidviz.azurewebsites.net) - Checkout the Covid portal.
+- 👨🏽‍💻 [Covid19Assist](https://www.covid19assist.in) - Checkout the Covid19 Resources portal.
 
 ### Languages
   
