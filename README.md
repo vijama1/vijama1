@@ -14,7 +14,7 @@ I am [Aman](https://vijama1.github.io/), a passionate and creative developer fro
 </p>
 
 
-- 🔭 I’m currently working on gRPC!
+- 🔭 I’m currently working on Autonomic Computing.
 - 🌱 I’m currently learning Quantum Computing
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love astrophysics & reading.
